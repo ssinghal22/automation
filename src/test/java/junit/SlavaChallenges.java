@@ -387,7 +387,6 @@ public class SlavaChallenges {
         System.out.println(factorial(10));
     }
 
-
     long factorial (int num) {
         if (num == 0) {
             return 1;

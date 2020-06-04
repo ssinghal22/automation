@@ -16,7 +16,6 @@ public class PracticeSept {
     }
 
     private static void fizzBuzz(int num){
-
         for (int i = 1; i <= num; i++){
             if (i % 15 == 0){
                 System.out.print("FizzBuzz ");
@@ -95,7 +94,6 @@ public class PracticeSept {
         list2.add("krishna");
         list2.add("mani");
         list2.add("pk");
-
     }
 
     private static void compare2Lists(ArrayList<String> list1, ArrayList<String> list2){
@@ -444,7 +442,6 @@ private static void binarySearch1(int[] arr, int num) {
     }
 }
 
-
     public static void main(String args[]){
          int[] sortedArr = {1, 3, 6, 9, 22};
          binarySearch1(sortedArr, 2);
@@ -502,10 +499,5 @@ private static void binarySearch1(int[] arr, int num) {
       //  compare2Lists(list1, list2);
 
     // uniqueList(list4, list5);
-
-
-
-
-
     }
 }

@@ -1,0 +1,252 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="178c43ad-525e-4b5e-9199-ac8bd1aee199" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/automation.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/automation.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/junit/PracticeSept.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/junit/PracticeSept.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/junit/SlavaChallenges.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/junit/SlavaChallenges.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/automation$PracticeSept.ic" NAME="PracticeSept Coverage Results" MODIFIED="1569107025383" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>junit.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/automation$Practice_printReverseSentence.ic" NAME="Practice.printReverseSentence Coverage Results" MODIFIED="1563856333993" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>junit.*</FILTER>
+    </SUITE>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="$PROJECT_DIR$/.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectId" id="1Ycwb3RMsK6WmfUhRoZVwwVDXiQ" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ChangesTree.GroupingKeys" value="module" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1576651502522" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="recentsLimit" value="9" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="junit" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/test/resources/drivers" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Brillo">
+    <configuration name="Apr2020" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="junit.Apr2020" />
+      <module name="automation" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="junit.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Brillo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="junit.Brillo" />
+      <module name="automation" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="junit.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SalesForce" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="junit.SalesForce" />
+      <module name="automation" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="junit.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="WF31" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="junit.WF31" />
+      <module name="automation" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="junit.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SlavaChallenges.testIsPalindrome" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="automation" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="junit.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="junit" />
+      <option name="MAIN_CLASS_NAME" value="junit.SlavaChallenges" />
+      <option name="METHOD_NAME" value="testIsPalindrome" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Brillo" />
+        <item itemvalue="Application.Apr2020" />
+        <item itemvalue="Application.SalesForce" />
+        <item itemvalue="Application.WF31" />
+        <item itemvalue="JUnit.SlavaChallenges.testIsPalindrome" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="178c43ad-525e-4b5e-9199-ac8bd1aee199" name="Default Changelist" comment="" />
+      <created>1550125121224</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1550125121224</updated>
+    </task>
+    <task id="LOCAL-00001" summary="adding files to repo">
+      <created>1576647231933</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1576647231933</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="adding files to repo" />
+    <option name="LAST_COMMIT_MESSAGE" value="adding files to repo" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="186" y="89" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1585770416732">
+      <screen x="0" y="23" width="1440" height="807" />
+    </state>
+    <state x="186" y="89" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1440.807@0.23.1440.807" timestamp="1585770416732" />
+    <state x="186" y="89" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1440.810@0.23.1440.810" timestamp="1585770156172" />
+    <state x="186" y="89" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1440.812@0.23.1440.812" timestamp="1583877489135" />
+    <state x="644" y="215" key="#com.intellij.ide.util.PackageChooserDialog" timestamp="1585767640680">
+      <screen x="0" y="23" width="1440" height="815" />
+    </state>
+    <state x="644" y="215" key="#com.intellij.ide.util.PackageChooserDialog/0.23.1440.815@0.23.1440.815" timestamp="1585767640680" />
+    <state x="692" y="323" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1583255415565">
+      <screen x="0" y="23" width="1440" height="815" />
+    </state>
+    <state x="692" y="323" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.23.1440.815@0.23.1440.815" timestamp="1583255415565" />
+    <state x="680" y="319" width="451" height="225" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1585767643549">
+      <screen x="0" y="23" width="1440" height="815" />
+    </state>
+    <state x="680" y="319" width="451" height="225" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.23.1440.815@0.23.1440.815" timestamp="1585767643549" />
+    <state x="238" y="29" key="CommitChangelistDialog2" timestamp="1591307806795">
+      <screen x="0" y="23" width="1440" height="821" />
+    </state>
+    <state x="238" y="29" key="CommitChangelistDialog2/0.23.1440.821@0.23.1440.821" timestamp="1591307806795" />
+    <state width="1022" height="180" key="GridCell.Tab.0.bottom" timestamp="1588301909593">
+      <screen x="0" y="23" width="1440" height="812" />
+    </state>
+    <state width="1282" height="180" key="GridCell.Tab.0.bottom/0.23.1440.807@0.23.1440.807" timestamp="1587773750432" />
+    <state width="1012" height="287" key="GridCell.Tab.0.bottom/0.23.1440.810@0.23.1440.810" timestamp="1585768690935" />
+    <state width="1022" height="180" key="GridCell.Tab.0.bottom/0.23.1440.812@0.23.1440.812" timestamp="1588301909593" />
+    <state width="851" height="288" key="GridCell.Tab.0.bottom/0.23.1440.813@0.23.1440.813" timestamp="1583519362752" />
+    <state width="1282" height="180" key="GridCell.Tab.0.bottom/0.23.1440.815@0.23.1440.815" timestamp="1588049318269" />
+    <state width="1012" height="288" key="GridCell.Tab.0.bottom/0.23.1440.817@0.23.1440.817" timestamp="1585764023061" />
+    <state width="1022" height="180" key="GridCell.Tab.0.center" timestamp="1588301909592">
+      <screen x="0" y="23" width="1440" height="812" />
+    </state>
+    <state width="1282" height="180" key="GridCell.Tab.0.center/0.23.1440.807@0.23.1440.807" timestamp="1587773750431" />
+    <state width="1012" height="287" key="GridCell.Tab.0.center/0.23.1440.810@0.23.1440.810" timestamp="1585768690934" />
+    <state width="1022" height="180" key="GridCell.Tab.0.center/0.23.1440.812@0.23.1440.812" timestamp="1588301909592" />
+    <state width="851" height="288" key="GridCell.Tab.0.center/0.23.1440.813@0.23.1440.813" timestamp="1583519362746" />
+    <state width="1282" height="180" key="GridCell.Tab.0.center/0.23.1440.815@0.23.1440.815" timestamp="1588049318268" />
+    <state width="1012" height="288" key="GridCell.Tab.0.center/0.23.1440.817@0.23.1440.817" timestamp="1585764023060" />
+    <state width="1022" height="180" key="GridCell.Tab.0.left" timestamp="1588301909591">
+      <screen x="0" y="23" width="1440" height="812" />
+    </state>
+    <state width="1282" height="180" key="GridCell.Tab.0.left/0.23.1440.807@0.23.1440.807" timestamp="1587773750430" />
+    <state width="1012" height="287" key="GridCell.Tab.0.left/0.23.1440.810@0.23.1440.810" timestamp="1585768690934" />
+    <state width="1022" height="180" key="GridCell.Tab.0.left/0.23.1440.812@0.23.1440.812" timestamp="1588301909591" />
+    <state width="851" height="288" key="GridCell.Tab.0.left/0.23.1440.813@0.23.1440.813" timestamp="1583519362744" />
+    <state width="1282" height="180" key="GridCell.Tab.0.left/0.23.1440.815@0.23.1440.815" timestamp="1588049318267" />
+    <state width="1012" height="288" key="GridCell.Tab.0.left/0.23.1440.817@0.23.1440.817" timestamp="1585764023059" />
+    <state width="1022" height="180" key="GridCell.Tab.0.right" timestamp="1588301909593">
+      <screen x="0" y="23" width="1440" height="812" />
+    </state>
+    <state width="1282" height="180" key="GridCell.Tab.0.right/0.23.1440.807@0.23.1440.807" timestamp="1587773750432" />
+    <state width="1012" height="287" key="GridCell.Tab.0.right/0.23.1440.810@0.23.1440.810" timestamp="1585768690935" />
+    <state width="1022" height="180" key="GridCell.Tab.0.right/0.23.1440.812@0.23.1440.812" timestamp="1588301909593" />
+    <state width="851" height="288" key="GridCell.Tab.0.right/0.23.1440.813@0.23.1440.813" timestamp="1583519362749" />
+    <state width="1282" height="180" key="GridCell.Tab.0.right/0.23.1440.815@0.23.1440.815" timestamp="1588049318269" />
+    <state width="1012" height="288" key="GridCell.Tab.0.right/0.23.1440.817@0.23.1440.817" timestamp="1585764023060" />
+    <state x="394" y="23" key="SettingsEditor" timestamp="1583879682239">
+      <screen x="0" y="23" width="1440" height="812" />
+    </state>
+    <state x="394" y="23" key="SettingsEditor/0.23.1440.812@0.23.1440.812" timestamp="1583879682239" />
+  </component>
+</project>
