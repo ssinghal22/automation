@@ -2,6 +2,8 @@ package junit;
 
 import java.util.*;
 
+import static org.junit.Assert.assertTrue;
+
 public class Practice1<arrM> {
 
     static int[] dupArr = {4, 5, 4, 7, 5, 8, 6, 5, 7, 8, 5, 9, 7, 2, 4};
@@ -215,7 +217,14 @@ public class Practice1<arrM> {
 
     public static void main(String[] args){
 
-        swapVowels(word2);
+        Boolean a = true;
+        Boolean b = true;
+
+       // assertTrue("one is true", a || b);
+
+        System.out.println("soniya Krish's B'day");
+
+        //swapVowels(word2);
 
         //reverseDigitsInNumber(number);
 
