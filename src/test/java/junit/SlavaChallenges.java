@@ -97,7 +97,6 @@ public class SlavaChallenges {
         System.out.println(Arrays.toString(arr));
     }
 
-
     // div by 3
     // div by 4
     // div by 3 and 4

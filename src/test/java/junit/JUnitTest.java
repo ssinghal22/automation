@@ -1,8 +1,9 @@
-/*
+
 package junit;
 
 import org.junit.After;
 import org.junit.Before;
+import org.junit.Ignore;
 import org.junit.Test;
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
@@ -12,7 +13,7 @@ import org.openqa.selenium.chrome.ChromeOptions;
 
 import static org.junit.Assert.*;
 
-public class JUnitTest implements Loggable {
+public class JUnitTest {
 
     private static WebDriver driver; //properties shall be private
 
@@ -23,7 +24,7 @@ public class JUnitTest implements Loggable {
         System.setProperty("webdriver.chrome.driver", chromeDriverPath); //its a hashmap
 
         ChromeOptions options = new ChromeOptions();
-        options.setHeadless(true); //browser still runs virtually, just doesn't display, need when don't want to get distracted or on cloud
+       // options.setHeadless(true); //browser still runs virtually, just doesn't display, need when don't want to get distracted or on cloud
         options.addArguments("--window-size=1920,1080"); //always put resolution
         options.addArguments("--disable-gpu"); //graphical processing unit, don't need for headless
         driver = new ChromeDriver(options);
@@ -32,6 +33,7 @@ public class JUnitTest implements Loggable {
         driver.manage().window().maximize(); //don't need this for headless
     }
 
+    @Ignore
     @Test //right click, run it
     public void hello() {
         System.out.println("Hello World!");
@@ -39,14 +41,14 @@ public class JUnitTest implements Loggable {
 
     @Test //all tests must be public and void
     public void fillAndVerifySampleForm() {
-//        openSamplePage();
-//        fillRequiredFields();
-//        submitSampleForm();
-//        verifySubmittedFields();
+        openSamplePage();
+        fillRequiredFields();
+        submitSampleForm();
+        verifySubmittedFields();
     }
 
-    */
-/*private void openSamplePage() {
+
+private void openSamplePage() {
         driver.get("https://skryabin.com/webdriver/html/sample.html");
 
         if (driver.getTitle().equals("Sample Page")) {
@@ -87,15 +89,15 @@ public class JUnitTest implements Loggable {
         assertTrue(password.contains("entered"));
 
         String resultText = driver.findElement(By.xpath("//*[@id='samplePageResult']//section")).getText();
-        //System.out.println("Text displayed on page is: ");
-        //System.out.println(resultText);
+        System.out.println("Text displayed on page is: ");
+        System.out.println(resultText);
 
         assertTrue(resultText.contains("SoniS"));
         assertTrue(resultText.contains("SoniS@example.com"));
         assertTrue(resultText.contains("Soni"));
         assertTrue(resultText.contains("Krishy"));
         assertTrue(resultText.contains("Singhal"));
-    }*//*
+    }
 
 
     @After
@@ -103,4 +105,4 @@ public class JUnitTest implements Loggable {
         driver.quit();
     }
 }
-*/
+

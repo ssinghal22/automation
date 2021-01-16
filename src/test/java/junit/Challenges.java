@@ -199,7 +199,6 @@ public class Challenges {
         for (int i = 0; i < arr.length; i++) {
 
             if (arr[i] > max) {
-
                 max = arr[i];
             }
         }
@@ -761,41 +760,9 @@ public class Challenges {
         System.out.print(num);
     }
 
-    //ChargePoint 4
-    @Test
-    public void testBrackets(){
-        String word = "abc{jkl(uyt[gf]jkl)mnb}";
-        String braces = "{}()[]";
-        brackets(word, braces);
-    }
-
-    private void brackets(String word, String braces) {
-        /*int count = 1;
-        Map<Character, Integer> unique = new HashMap<>();
-
-        unique.put(word.charAt(0), count);
-
-        for (int i = 1; i < word.length(); ++i){
-
-            if(unique.containsKey(word.charAt(i))){
-                int newCount = unique.get(word.charAt(i)) + 1;
-                unique.put(word.charAt(i), newCount);
-            }
-            else {
-                unique.put(word.charAt(i), count);
-            }
-        }
-
-        for (char key: unique.keySet()){
-            System.out.println("key: " + key + " count: " + unique.get(key));
-        }*/
-    }
-
     public void testArrayList(){
         ArrayList<Integer> arrList = new ArrayList<>();
         arrList.add(5);
         arrList.add(6);
     }
-
-
 }

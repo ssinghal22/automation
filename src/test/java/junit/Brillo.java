@@ -14,25 +14,10 @@ public class Brillo {
         list.add(4);
         list.add(5);
 
-        /*System.out.println(list);
+        System.out.println(list);
 
-        int first = list.get(0);
-        int before;
-        int after;
-
-        list.add(6); //added at tail
-
-
-        for(int i=list.size(); i>=0; i--){
-            before = list.get(i);
-            list.add(before);
-        }
-
-    }*/
-
-        for (int i = 0; i < 9; i++) {
-            System.out.println(++i);
-        }
-
+        list.add(0, 0);
+        list.add(list.size(), 6);
+        System.out.println(list);
     }
 }
