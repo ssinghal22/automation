@@ -18,6 +18,7 @@ public class Brillo {
 
         list.add(0, 0);
         list.add(list.size(), 6);
+        list.add(2, -6);
         System.out.println(list);
     }
 }

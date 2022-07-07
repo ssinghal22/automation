@@ -19,7 +19,7 @@ public class TestContext {
         System.setProperty("webdriver.chrome.driver", chromeDriverPath); //its a hashmap
 
         driver = new ChromeDriver();
-        driver.manage().deleteAllCookies(); //we r using only here to keep it simple, so not using get
+        driver.manage().deleteAllCookies(); //we r using only here to keep it simple, so not using getDriver()
         driver.manage().window().maximize();
         driver.manage().timeouts().implicitlyWait(5, TimeUnit.SECONDS);
     }
