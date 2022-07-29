@@ -17,7 +17,7 @@ public class CareersStepDefs {
     @When("^I navigate to \"([^\"]*)\"$")
     public void iNavigateTo(String title) throws Throwable {
         //had title argument, so created exception. i deleted it
-       // new CareersHome().fillSearch(title); //since return instance of class, can use cascade approach,
+        // new CareersHome().fillSearch(title); //since return instance of class, can use cascade approach,
         // don't need to use 'new CareersHome().' each time
         //new CareersHome().clickSearch();
 
